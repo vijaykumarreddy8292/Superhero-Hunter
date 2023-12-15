@@ -5,7 +5,6 @@
 - Fetch and display a list of SuperHeros (Characters) on the home page. Also create a search bar that will filter out the character based on search query. 
 
 - Suppose I type “bat” in the search box, it should show “batman”. 
-[ API example https://gateway.marvel.com:443/v1/public/characters?ts=<time-stamp>&apikey=<public-key>&hash=<md5(ts+privateKey+publicKey)>]
 
 - Each search result of the superhero should have a favorite button, clicking on which superhero should be added to “My favorite superheroes” (a list).
 
